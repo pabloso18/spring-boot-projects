@@ -1,6 +1,6 @@
 # Spring Boot + Email template with Thymeleaf
 
-Now creating an email service with ability to send different kinds of email can be pretty easily. This project can help with personalizing email sender and you can send company emails.
+Now creating an email service with the ability to send different kinds of email can be pretty easy. This example can help you to how to send a personalized email, create an email sender and you can send company emails. This example uses the Gmail SMTP but you can change the properties.
 
 This repository it's for Spring Boot + Email template with Thymeleaf.
 I also add lombok project for the DTO.
