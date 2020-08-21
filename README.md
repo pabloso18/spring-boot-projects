@@ -18,3 +18,7 @@ My name is Jose Pablo Solano and I want to show/help you to see how you can do s
 [Spring Boot + Email template with Thymeleaf](https://github.com/pabloso18/spring-boot-projects/tree/master/SpringBootEmailTemplate) 
 
 This example it's to send an email using Spring boot 2 + gmail SMTP + Thymeleaf HTML template with an attachment. Also we will use Lombok.
+
+[Spring Boot + Hateoas](https://github.com/pabloso18/spring-boot-projects/tree/master/SpringHateoasDemo)
+
+On this example, I will show you how to add HATEOAS links to existing REST APIs with H2 Database.
